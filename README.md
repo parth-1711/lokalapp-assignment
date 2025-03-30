@@ -16,7 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-Link for Video
+Link for Video Reference
 ```
 https://drive.google.com/file/d/1vgA8d5_OsKX1JGp1YrCYQ8evwBmeBbrZ/view?usp=sharing
 ```
